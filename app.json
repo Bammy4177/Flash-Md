@@ -38,7 +38,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : Bammy tech{
+    "BOT_NAME" {
 
       "description":"Bammy tech",
       "value":"FLASH-MD",
